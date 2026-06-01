@@ -207,6 +207,14 @@ Full interactive docs are available at `/docs` when the backend is running.
 
 ---
 
+## Live Deployment
+
+| Service  | URL |
+|----------|-----|
+| Frontend | https://inventory-order-management-lac.vercel.app |
+| Backend API | https://inventory-backend-8vlb.onrender.com |
+| API Docs | https://inventory-backend-8vlb.onrender.com/docs |
+
 ## Docker Hub
 
 The backend image is available at:
