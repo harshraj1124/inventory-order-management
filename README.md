@@ -220,5 +220,7 @@ Full interactive docs are available at `/docs` when the backend is running.
 The backend image is available at:
 
 ```
-docker pull <your-dockerhub-username>/inventory-backend:latest
+docker pull rajharsh1124/inventory-backend:latest
 ```
+
+View on Docker Hub: https://hub.docker.com/r/rajharsh1124/inventory-backend
